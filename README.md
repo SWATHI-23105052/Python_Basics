@@ -1,0 +1,1 @@
+This repository contains a collection of basic Python programs aimed at helping beginners understand fundamental programming concepts. Each program covers key Python features and provides examples of how to apply them.
